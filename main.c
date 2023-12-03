@@ -13,3 +13,10 @@ Initial Security()
 
 
 }
+pseudo code
+{
+Initial Function()
+{
+  //Sample Code
+}
+}
